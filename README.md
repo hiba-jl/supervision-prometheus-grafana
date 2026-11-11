@@ -56,16 +56,16 @@ Exemple de requête PromQL utilisée : `rate(windows_cpu_time_total[5m])` (utili
 ## Résultats
 
 ### 1. Configuration de Prometheus
-![Configuration prometheus.yml](docs/screenshots/01-prometheus-config.png)
+![Configuration prometheus.yml](01-prometheus-config.png)
 
 ### 2. Cible Windows Exporter collectée (état UP)
-![Prometheus target UP](docs/screenshots/02-prometheus-target-up.png)
+![Prometheus target UP](02-prometheus-target-up.png)
 
 ### 3. Grafana : vue d'ensemble de la machine
-![Dashboard Grafana vue d'ensemble](docs/screenshots/03-grafana-vue-ensemble.png)
+![Dashboard Grafana vue d'ensemble](03-grafana-vue-ensemble.png)
 
 ### 4. Grafana : métriques détaillées
-![Dashboard Grafana métriques détaillées](docs/screenshots/04-grafana-metriques-detaillees.png)
+![Dashboard Grafana métriques détaillées](04-grafana-metriques-detaillees.png)
 
 ## Analyse
 
